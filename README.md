@@ -10,4 +10,4 @@ The list of player names to be banned is stored in the "future_ban.lua" file in 
 
 # Licensing
 
-This mod was originally created by cactuz_pl in 2012 and published under the WTFPL. It was rehosted and relicensed to MIT licensing by FaceDeer in 2019.
+This mod was originally created by PilzAdam in 2012 and [published under the WTFPL](https://forum.minetest.net/viewtopic.php?id=4268). It was rehosted and relicensed to MIT licensing by FaceDeer in 2019.
